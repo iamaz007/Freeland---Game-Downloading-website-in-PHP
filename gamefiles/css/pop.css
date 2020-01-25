@@ -1,0 +1,4 @@
+html{font-family:Montserrat;}
+.wp-tabs .ui-tabs-panel .wp-tab-content{margin-top:10px;margin-bottom:10px;padding:5px;}
+#but{border:0;background:#343050;color:white;margin:1rem 0;width:auto;text-transform:uppercase;cursor:pointer;}
+#but:hover{background-color:#269abc;border-color:#1b6d85;}
