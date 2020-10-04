@@ -5491,10 +5491,7 @@ ul {
     -webkit-flex-wrap: nowrap;
     -ms-flex-wrap: nowrap;
     flex-wrap: nowrap;
-}
-a{
     text-decoration: none;
-    font-weight: 100;
 }
 
 .div-block-52,
